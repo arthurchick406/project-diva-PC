@@ -1,4 +1,4 @@
-# 🎹 Project DIVA Dreamy Mix v1.0
+# 🎹 Project DIVA Dreamy Mix v1.1
 
 Добро пожаловать в фанатский ритм-движок, созданный Артуром!
 
